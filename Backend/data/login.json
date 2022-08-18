@@ -1,0 +1,15 @@
+[
+{
+    "idUsuario": 1,
+    "firstName": "Yarelis",
+    "lastName": "Escalante",
+    "email": "yarelis.escalante@gmail.com",
+    "password": "123456789"
+},
+{   "idUsuario": 2,
+    "firstName": "Juan",
+    "lastName": "Gonzales",
+    "email": "juan.gonz@gmail.com",
+    "password": "123456789"
+}
+]
